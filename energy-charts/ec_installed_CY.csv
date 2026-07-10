@@ -1,0 +1,29 @@
+country,year,technology,capacity_gw
+CY,2014,Biomass,0.01
+CY,2016,Biomass,0.01
+CY,2017,Biomass,0.01
+CY,2018,Biomass,0.01
+CY,2019,Biomass,0.01
+CY,2020,Biomass,0.01
+CY,2024,Biomass,0.0
+CY,2014,Fossil oil,1.48
+CY,2016,Fossil oil,1.48
+CY,2017,Fossil oil,1.48
+CY,2018,Fossil oil,1.48
+CY,2019,Fossil oil,1.48
+CY,2020,Fossil oil,1.48
+CY,2024,Fossil oil,1.48
+CY,2014,Wind onshore,0.16
+CY,2016,Wind onshore,0.16
+CY,2017,Wind onshore,0.16
+CY,2018,Wind onshore,0.16
+CY,2019,Wind onshore,0.16
+CY,2020,Wind onshore,0.16
+CY,2024,Wind onshore,0.16
+CY,2014,Solar AC,0.08
+CY,2016,Solar AC,0.12
+CY,2017,Solar AC,0.12
+CY,2018,Solar AC,0.15
+CY,2019,Solar AC,0.2
+CY,2020,Solar AC,0.25
+CY,2024,Solar AC,0.4

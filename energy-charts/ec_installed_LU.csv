@@ -1,0 +1,229 @@
+country,year,technology,capacity_gw
+LU,2014,Nuclear,0.0
+LU,2015,Nuclear,0.0
+LU,2016,Nuclear,0.0
+LU,2017,Nuclear,0.0
+LU,2018,Nuclear,0.0
+LU,2019,Nuclear,0.0
+LU,2020,Nuclear,0.0
+LU,2021,Nuclear,0.0
+LU,2022,Nuclear,0.0
+LU,2023,Nuclear,0.0
+LU,2024,Nuclear,0.0
+LU,2025,Nuclear,0.0
+LU,2014,Biomass,0.0
+LU,2015,Biomass,0.0
+LU,2016,Biomass,0.0
+LU,2017,Biomass,0.0
+LU,2018,Biomass,0.03
+LU,2019,Biomass,0.05
+LU,2020,Biomass,0.05
+LU,2021,Biomass,0.05
+LU,2022,Biomass,0.05
+LU,2023,Biomass,0.08
+LU,2024,Biomass,0.08
+LU,2025,Biomass,0.08
+LU,2014,Fossil brown coal / lignite,0.0
+LU,2015,Fossil brown coal / lignite,0.0
+LU,2016,Fossil brown coal / lignite,0.0
+LU,2017,Fossil brown coal / lignite,0.0
+LU,2018,Fossil brown coal / lignite,0.0
+LU,2019,Fossil brown coal / lignite,0.0
+LU,2020,Fossil brown coal / lignite,0.0
+LU,2021,Fossil brown coal / lignite,0.0
+LU,2022,Fossil brown coal / lignite,0.0
+LU,2023,Fossil brown coal / lignite,0.0
+LU,2024,Fossil brown coal / lignite,0.0
+LU,2025,Fossil brown coal / lignite,0.0
+LU,2014,Fossil coal-derived gas,0.0
+LU,2015,Fossil coal-derived gas,0.0
+LU,2016,Fossil coal-derived gas,0.0
+LU,2017,Fossil coal-derived gas,0.0
+LU,2018,Fossil coal-derived gas,0.0
+LU,2019,Fossil coal-derived gas,0.0
+LU,2020,Fossil coal-derived gas,0.0
+LU,2021,Fossil coal-derived gas,0.0
+LU,2022,Fossil coal-derived gas,0.0
+LU,2023,Fossil coal-derived gas,0.0
+LU,2024,Fossil coal-derived gas,0.0
+LU,2025,Fossil coal-derived gas,0.0
+LU,2014,Fossil hard coal,0.0
+LU,2015,Fossil hard coal,0.0
+LU,2016,Fossil hard coal,0.0
+LU,2017,Fossil hard coal,0.0
+LU,2018,Fossil hard coal,0.0
+LU,2019,Fossil hard coal,0.0
+LU,2020,Fossil hard coal,0.0
+LU,2021,Fossil hard coal,0.0
+LU,2022,Fossil hard coal,0.0
+LU,2023,Fossil hard coal,0.0
+LU,2024,Fossil hard coal,0.0
+LU,2025,Fossil hard coal,0.0
+LU,2014,Fossil oil,0.0
+LU,2015,Fossil oil,0.0
+LU,2016,Fossil oil,0.0
+LU,2017,Fossil oil,0.0
+LU,2018,Fossil oil,0.0
+LU,2019,Fossil oil,0.0
+LU,2020,Fossil oil,0.0
+LU,2021,Fossil oil,0.0
+LU,2022,Fossil oil,0.0
+LU,2023,Fossil oil,0.0
+LU,2024,Fossil oil,0.0
+LU,2025,Fossil oil,0.0
+LU,2014,Fossil oil shale,0.0
+LU,2015,Fossil oil shale,0.0
+LU,2016,Fossil oil shale,0.0
+LU,2017,Fossil oil shale,0.0
+LU,2018,Fossil oil shale,0.0
+LU,2019,Fossil oil shale,0.0
+LU,2020,Fossil oil shale,0.0
+LU,2021,Fossil oil shale,0.0
+LU,2022,Fossil oil shale,0.0
+LU,2023,Fossil oil shale,0.0
+LU,2024,Fossil oil shale,0.0
+LU,2025,Fossil oil shale,0.0
+LU,2014,Fossil peat,0.0
+LU,2015,Fossil peat,0.0
+LU,2016,Fossil peat,0.0
+LU,2017,Fossil peat,0.0
+LU,2018,Fossil peat,0.0
+LU,2019,Fossil peat,0.0
+LU,2020,Fossil peat,0.0
+LU,2021,Fossil peat,0.0
+LU,2022,Fossil peat,0.0
+LU,2023,Fossil peat,0.0
+LU,2024,Fossil peat,0.0
+LU,2025,Fossil peat,0.0
+LU,2014,Fossil gas,0.07
+LU,2015,Fossil gas,0.07
+LU,2016,Fossil gas,0.08
+LU,2017,Fossil gas,0.08
+LU,2018,Fossil gas,0.08
+LU,2019,Fossil gas,0.08
+LU,2020,Fossil gas,0.1
+LU,2021,Fossil gas,0.1
+LU,2022,Fossil gas,0.07
+LU,2023,Fossil gas,0.07
+LU,2024,Fossil gas,0.07
+LU,2025,Fossil gas,0.06
+LU,2014,Geothermal,0.0
+LU,2015,Geothermal,0.0
+LU,2016,Geothermal,0.0
+LU,2017,Geothermal,0.0
+LU,2018,Geothermal,0.0
+LU,2019,Geothermal,0.0
+LU,2020,Geothermal,0.0
+LU,2021,Geothermal,0.0
+LU,2022,Geothermal,0.0
+LU,2023,Geothermal,0.0
+LU,2024,Geothermal,0.0
+LU,2025,Geothermal,0.0
+LU,2014,Hydro water reservoir,0.01
+LU,2015,Hydro water reservoir,0.01
+LU,2016,Hydro water reservoir,0.01
+LU,2017,Hydro water reservoir,0.01
+LU,2018,Hydro water reservoir,0.01
+LU,2019,Hydro water reservoir,0.01
+LU,2020,Hydro water reservoir,0.01
+LU,2021,Hydro water reservoir,0.01
+LU,2022,Hydro water reservoir,0.01
+LU,2023,Hydro water reservoir,0.01
+LU,2024,Hydro water reservoir,0.01
+LU,2025,Hydro water reservoir,0.01
+LU,2014,Hydro pumped storage,0.0
+LU,2015,Hydro pumped storage,0.0
+LU,2016,Hydro pumped storage,0.0
+LU,2017,Hydro pumped storage,0.0
+LU,2018,Hydro pumped storage,0.0
+LU,2019,Hydro pumped storage,0.0
+LU,2020,Hydro pumped storage,0.0
+LU,2021,Hydro pumped storage,0.0
+LU,2022,Hydro pumped storage,0.0
+LU,2023,Hydro pumped storage,0.0
+LU,2024,Hydro pumped storage,0.0
+LU,2025,Hydro pumped storage,0.0
+LU,2014,Marine,0.0
+LU,2015,Marine,0.0
+LU,2016,Marine,0.0
+LU,2017,Marine,0.0
+LU,2018,Marine,0.0
+LU,2019,Marine,0.0
+LU,2020,Marine,0.0
+LU,2021,Marine,0.0
+LU,2022,Marine,0.0
+LU,2023,Marine,0.0
+LU,2024,Marine,0.0
+LU,2025,Marine,0.0
+LU,2014,Others,0.0
+LU,2015,Others,0.0
+LU,2016,Others,0.0
+LU,2017,Others,0.0
+LU,2018,Others,0.0
+LU,2019,Others,0.0
+LU,2020,Others,0.0
+LU,2021,Others,0.0
+LU,2022,Others,0.0
+LU,2023,Others,0.0
+LU,2024,Others,0.0
+LU,2025,Others,0.0
+LU,2014,Other renewables,0.0
+LU,2015,Other renewables,0.0
+LU,2016,Other renewables,0.0
+LU,2017,Other renewables,0.0
+LU,2018,Other renewables,0.0
+LU,2019,Other renewables,0.0
+LU,2020,Other renewables,0.0
+LU,2021,Other renewables,0.0
+LU,2022,Other renewables,0.0
+LU,2023,Other renewables,0.0
+LU,2024,Other renewables,0.0
+LU,2025,Other renewables,0.0
+LU,2014,Waste,0.02
+LU,2015,Waste,0.02
+LU,2016,Waste,0.02
+LU,2017,Waste,0.02
+LU,2018,Waste,0.02
+LU,2019,Waste,0.02
+LU,2020,Waste,0.02
+LU,2021,Waste,0.02
+LU,2022,Waste,0.02
+LU,2023,Waste,0.02
+LU,2024,Waste,0.02
+LU,2025,Waste,0.02
+LU,2014,Wind offshore,0.0
+LU,2015,Wind offshore,0.0
+LU,2016,Wind offshore,0.0
+LU,2017,Wind offshore,0.0
+LU,2018,Wind offshore,0.0
+LU,2019,Wind offshore,0.0
+LU,2020,Wind offshore,0.0
+LU,2021,Wind offshore,0.0
+LU,2022,Wind offshore,0.0
+LU,2023,Wind offshore,0.0
+LU,2024,Wind offshore,0.0
+LU,2025,Wind offshore,0.0
+LU,2014,Wind onshore,0.12
+LU,2015,Wind onshore,0.12
+LU,2016,Wind onshore,0.12
+LU,2017,Wind onshore,0.12
+LU,2018,Wind onshore,0.15
+LU,2019,Wind onshore,0.15
+LU,2020,Wind onshore,0.17
+LU,2021,Wind onshore,0.17
+LU,2022,Wind onshore,0.15
+LU,2023,Wind onshore,0.21
+LU,2024,Wind onshore,0.21
+LU,2025,Wind onshore,0.23
+LU,2014,Solar AC,0.0
+LU,2015,Solar AC,0.0
+LU,2016,Solar AC,0.0
+LU,2017,Solar AC,0.1
+LU,2018,Solar AC,0.14
+LU,2019,Solar AC,0.17
+LU,2020,Solar AC,0.24
+LU,2021,Solar AC,0.26
+LU,2022,Solar AC,0.3
+LU,2023,Solar AC,0.42
+LU,2024,Solar AC,0.54
+LU,2025,Solar AC,0.77

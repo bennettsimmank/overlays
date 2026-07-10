@@ -1,0 +1,84 @@
+country,year,technology,capacity_gw
+NO,2020,Biomass,0.0
+NO,2021,Biomass,0.0
+NO,2022,Biomass,0.0
+NO,2023,Biomass,0.01
+NO,2024,Biomass,0.01
+NO,2025,Biomass,0.01
+NO,2014,Fossil gas,1.41
+NO,2015,Fossil gas,1.41
+NO,2016,Fossil gas,0.61
+NO,2017,Fossil gas,0.63
+NO,2018,Fossil gas,0.63
+NO,2019,Fossil gas,0.64
+NO,2020,Fossil gas,0.64
+NO,2021,Fossil gas,0.64
+NO,2022,Fossil gas,0.46
+NO,2023,Fossil gas,0.47
+NO,2024,Fossil gas,0.48
+NO,2025,Fossil gas,0.53
+NO,2014,Hydro water reservoir,24.96
+NO,2015,Hydro water reservoir,25.38
+NO,2016,Hydro water reservoir,25.39
+NO,2017,Hydro water reservoir,26.31
+NO,2018,Hydro water reservoir,26.47
+NO,2019,Hydro water reservoir,26.53
+NO,2020,Hydro water reservoir,26.68
+NO,2021,Hydro water reservoir,26.68
+NO,2022,Hydro water reservoir,26.7
+NO,2023,Hydro water reservoir,26.66
+NO,2024,Hydro water reservoir,26.71
+NO,2025,Hydro water reservoir,26.68
+NO,2014,Hydro pumped storage,1.04
+NO,2015,Hydro pumped storage,1.04
+NO,2016,Hydro pumped storage,1.04
+NO,2017,Hydro pumped storage,1.03
+NO,2018,Hydro pumped storage,1.03
+NO,2019,Hydro pumped storage,1.03
+NO,2020,Hydro pumped storage,1.06
+NO,2021,Hydro pumped storage,1.06
+NO,2022,Hydro pumped storage,1.06
+NO,2023,Hydro pumped storage,1.06
+NO,2024,Hydro pumped storage,1.06
+NO,2025,Hydro pumped storage,1.08
+NO,2014,Others,0.0
+NO,2015,Others,0.0
+NO,2016,Others,0.0
+NO,2017,Others,0.0
+NO,2018,Others,0.0
+NO,2019,Others,0.0
+NO,2020,Others,0.03
+NO,2021,Others,0.03
+NO,2022,Others,0.03
+NO,2023,Others,0.03
+NO,2024,Others,0.03
+NO,2025,Others,0.03
+NO,2020,Other renewables,0.1
+NO,2021,Other renewables,0.1
+NO,2022,Other renewables,0.1
+NO,2023,Other renewables,0.1
+NO,2024,Other renewables,0.1
+NO,2025,Other renewables,0.1
+NO,2020,Waste,0.09
+NO,2021,Waste,0.09
+NO,2022,Waste,0.09
+NO,2023,Waste,0.09
+NO,2024,Waste,0.09
+NO,2025,Waste,0.09
+NO,2024,Wind offshore,0.01
+NO,2025,Wind offshore,0.01
+NO,2014,Wind onshore,0.63
+NO,2015,Wind onshore,0.69
+NO,2016,Wind onshore,0.9
+NO,2017,Wind onshore,1.23
+NO,2018,Wind onshore,2.26
+NO,2019,Wind onshore,3.87
+NO,2020,Wind onshore,5.11
+NO,2021,Wind onshore,5.11
+NO,2022,Wind onshore,5.13
+NO,2023,Wind onshore,5.13
+NO,2024,Wind onshore,5.13
+NO,2025,Wind onshore,5.13
+NO,2023,Solar AC,0.01
+NO,2024,Solar AC,0.02
+NO,2025,Solar AC,0.04

@@ -1,0 +1,326 @@
+country,year,technology,capacity_gw
+DE,2002,Nuclear,23.6
+DE,2003,Nuclear,22.101
+DE,2004,Nuclear,21.459
+DE,2005,Nuclear,21.392
+DE,2006,Nuclear,21.214
+DE,2007,Nuclear,21.32
+DE,2008,Nuclear,21.587
+DE,2009,Nuclear,21.507
+DE,2010,Nuclear,21.507
+DE,2011,Nuclear,12.068
+DE,2012,Nuclear,12.068
+DE,2013,Nuclear,12.068
+DE,2014,Nuclear,12.068
+DE,2015,Nuclear,10.8
+DE,2016,Nuclear,10.8
+DE,2017,Nuclear,10.8
+DE,2018,Nuclear,9.516
+DE,2019,Nuclear,9.516
+DE,2020,Nuclear,8.114
+DE,2021,Nuclear,8.114
+DE,2022,Nuclear,4.056
+DE,2023,Nuclear,0.0
+DE,2024,Nuclear,0.0
+DE,2025,Nuclear,0.0
+DE,2026,Nuclear,0.0
+DE,2002,Fossil brown coal / lignite,20.304
+DE,2003,Fossil brown coal / lignite,20.899
+DE,2004,Fossil brown coal / lignite,20.8
+DE,2005,Fossil brown coal / lignite,20.642
+DE,2006,Fossil brown coal / lignite,20.51
+DE,2007,Fossil brown coal / lignite,21.163
+DE,2008,Fossil brown coal / lignite,21.019
+DE,2009,Fossil brown coal / lignite,21.095
+DE,2010,Fossil brown coal / lignite,21.317
+DE,2011,Fossil brown coal / lignite,19.847
+DE,2012,Fossil brown coal / lignite,21.016
+DE,2013,Fossil brown coal / lignite,20.956
+DE,2014,Fossil brown coal / lignite,20.818
+DE,2015,Fossil brown coal / lignite,21.419
+DE,2016,Fossil brown coal / lignite,21.273
+DE,2017,Fossil brown coal / lignite,20.859
+DE,2018,Fossil brown coal / lignite,20.903
+DE,2019,Fossil brown coal / lignite,20.903
+DE,2020,Fossil brown coal / lignite,20.857
+DE,2021,Fossil brown coal / lignite,19.812
+DE,2022,Fossil brown coal / lignite,18.574
+DE,2023,Fossil brown coal / lignite,18.254
+DE,2024,Fossil brown coal / lignite,15.079
+DE,2025,Fossil brown coal / lignite,14.758
+DE,2026,Fossil brown coal / lignite,14.758
+DE,2002,Fossil hard coal,28.294
+DE,2003,Fossil hard coal,28.624
+DE,2004,Fossil hard coal,30.396
+DE,2005,Fossil hard coal,27.639
+DE,2006,Fossil hard coal,26.959
+DE,2007,Fossil hard coal,27.504
+DE,2008,Fossil hard coal,27.869
+DE,2009,Fossil hard coal,27.289
+DE,2010,Fossil hard coal,28.35
+DE,2011,Fossil hard coal,25.724
+DE,2012,Fossil hard coal,25.177
+DE,2013,Fossil hard coal,25.964
+DE,2014,Fossil hard coal,26.21
+DE,2015,Fossil hard coal,28.654
+DE,2016,Fossil hard coal,27.435
+DE,2017,Fossil hard coal,24.042
+DE,2018,Fossil hard coal,23.816
+DE,2019,Fossil hard coal,22.67
+DE,2020,Fossil hard coal,23.742
+DE,2021,Fossil hard coal,19.105
+DE,2022,Fossil hard coal,18.672
+DE,2023,Fossil hard coal,18.417
+DE,2024,Fossil hard coal,15.552
+DE,2025,Fossil hard coal,15.386
+DE,2026,Fossil hard coal,15.386
+DE,2002,Fossil gas,20.3
+DE,2003,Fossil gas,19.534
+DE,2004,Fossil gas,19.384
+DE,2005,Fossil gas,20.622
+DE,2006,Fossil gas,21.202
+DE,2007,Fossil gas,21.303
+DE,2008,Fossil gas,22.756
+DE,2009,Fossil gas,23.147
+DE,2010,Fossil gas,23.758
+DE,2011,Fossil gas,27.249
+DE,2012,Fossil gas,27.378
+DE,2013,Fossil gas,28.389
+DE,2014,Fossil gas,29.019
+DE,2015,Fossil gas,28.359
+DE,2016,Fossil gas,29.449
+DE,2017,Fossil gas,29.762
+DE,2018,Fossil gas,30.13
+DE,2019,Fossil gas,30.072
+DE,2020,Fossil gas,32.536
+DE,2021,Fossil gas,32.128
+DE,2022,Fossil gas,35.112
+DE,2023,Fossil gas,35.687
+DE,2024,Fossil gas,35.601
+DE,2025,Fossil gas,35.311
+DE,2026,Fossil gas,35.311
+DE,2002,Fossil oil,5.3
+DE,2003,Fossil oil,5.056
+DE,2004,Fossil oil,5.635
+DE,2005,Fossil oil,5.457
+DE,2006,Fossil oil,5.491
+DE,2007,Fossil oil,5.448
+DE,2008,Fossil oil,5.351
+DE,2009,Fossil oil,5.154
+DE,2010,Fossil oil,5.857
+DE,2011,Fossil oil,4.166
+DE,2012,Fossil oil,4.136
+DE,2013,Fossil oil,4.136
+DE,2014,Fossil oil,4.236
+DE,2015,Fossil oil,4.196
+DE,2016,Fossil oil,4.593
+DE,2017,Fossil oil,4.416
+DE,2018,Fossil oil,4.375
+DE,2019,Fossil oil,4.375
+DE,2020,Fossil oil,4.857
+DE,2021,Fossil oil,5.094
+DE,2022,Fossil oil,5.102
+DE,2023,Fossil oil,4.49
+DE,2024,Fossil oil,3.811
+DE,2025,Fossil oil,3.811
+DE,2026,Fossil oil,3.811
+DE,2011,"Other, non-renewable",3.207
+DE,2012,"Other, non-renewable",3.207
+DE,2013,"Other, non-renewable",3.103
+DE,2014,"Other, non-renewable",3.155
+DE,2015,"Other, non-renewable",3.16
+DE,2016,"Other, non-renewable",3.261
+DE,2017,"Other, non-renewable",3.261
+DE,2018,"Other, non-renewable",3.304
+DE,2019,"Other, non-renewable",3.322
+DE,2020,"Other, non-renewable",2.974
+DE,2021,"Other, non-renewable",2.914
+DE,2022,"Other, non-renewable",3.2
+DE,2023,"Other, non-renewable",2.377
+DE,2024,"Other, non-renewable",2.328
+DE,2025,"Other, non-renewable",2.291
+DE,2026,"Other, non-renewable",2.291
+DE,2002,Hydro,4.937
+DE,2003,Hydro,4.953
+DE,2004,Hydro,5.186
+DE,2005,Hydro,5.21
+DE,2006,Hydro,5.193
+DE,2007,Hydro,5.137
+DE,2008,Hydro,5.164
+DE,2009,Hydro,5.34
+DE,2010,Hydro,5.407
+DE,2011,Hydro,5.308
+DE,2012,Hydro,5.282
+DE,2013,Hydro,5.438
+DE,2014,Hydro,5.575
+DE,2015,Hydro,5.475
+DE,2016,Hydro,5.493
+DE,2017,Hydro,4.782
+DE,2018,Hydro,4.837
+DE,2019,Hydro,4.849
+DE,2020,Hydro,4.957
+DE,2021,Hydro,4.946
+DE,2022,Hydro,4.9
+DE,2023,Hydro,5.61
+DE,2024,Hydro,5.546
+DE,2025,Hydro,5.889
+DE,2026,Hydro,5.889
+DE,2011,Hydro pumped storage,9.229
+DE,2012,Hydro pumped storage,9.234
+DE,2013,Hydro pumped storage,9.234
+DE,2014,Hydro pumped storage,9.245
+DE,2015,Hydro pumped storage,9.442
+DE,2016,Hydro pumped storage,9.452
+DE,2017,Hydro pumped storage,9.488
+DE,2018,Hydro pumped storage,9.814
+DE,2019,Hydro pumped storage,9.814
+DE,2020,Hydro pumped storage,9.688
+DE,2021,Hydro pumped storage,9.77
+DE,2022,Hydro pumped storage,9.97
+DE,2023,Hydro pumped storage,9.977
+DE,2024,Hydro pumped storage,9.894
+DE,2025,Hydro pumped storage,9.894
+DE,2026,Hydro pumped storage,9.894
+DE,2002,Battery storage (power),0.001
+DE,2003,Battery storage (power),0.001
+DE,2004,Battery storage (power),0.001
+DE,2005,Battery storage (power),0.001
+DE,2006,Battery storage (power),0.001
+DE,2007,Battery storage (power),0.002
+DE,2008,Battery storage (power),0.003
+DE,2009,Battery storage (power),0.003
+DE,2010,Battery storage (power),0.005
+DE,2011,Battery storage (power),0.007
+DE,2012,Battery storage (power),0.011
+DE,2013,Battery storage (power),0.025
+DE,2014,Battery storage (power),0.061
+DE,2015,Battery storage (power),0.103
+DE,2016,Battery storage (power),0.278
+DE,2017,Battery storage (power),0.453
+DE,2018,Battery storage (power),0.726
+DE,2019,Battery storage (power),1.012
+DE,2020,Battery storage (power),1.563
+DE,2021,Battery storage (power),2.419
+DE,2022,Battery storage (power),4.2
+DE,2023,Battery storage (power),8.36
+DE,2024,Battery storage (power),12.663
+DE,2025,Battery storage (power),16.835
+DE,2026,Battery storage (power),19.533
+DE,2002,Battery storage (capacity),0.001
+DE,2003,Battery storage (capacity),0.001
+DE,2004,Battery storage (capacity),0.001
+DE,2005,Battery storage (capacity),0.002
+DE,2006,Battery storage (capacity),0.002
+DE,2007,Battery storage (capacity),0.002
+DE,2008,Battery storage (capacity),0.003
+DE,2009,Battery storage (capacity),0.004
+DE,2010,Battery storage (capacity),0.005
+DE,2011,Battery storage (capacity),0.008
+DE,2012,Battery storage (capacity),0.014
+DE,2013,Battery storage (capacity),0.033
+DE,2014,Battery storage (capacity),0.08
+DE,2015,Battery storage (capacity),0.142
+DE,2016,Battery storage (capacity),0.342
+DE,2017,Battery storage (capacity),0.584
+DE,2018,Battery storage (capacity),0.983
+DE,2019,Battery storage (capacity),1.443
+DE,2020,Battery storage (capacity),2.332
+DE,2021,Battery storage (capacity),3.717
+DE,2022,Battery storage (capacity),6.345
+DE,2023,Battery storage (capacity),12.447
+DE,2024,Battery storage (capacity),18.64
+DE,2025,Battery storage (capacity),25.392
+DE,2026,Battery storage (capacity),30.112
+DE,2002,Biomass,0.717
+DE,2003,Biomass,0.909
+DE,2004,Biomass,1.361
+DE,2005,Biomass,1.816
+DE,2006,Biomass,2.513
+DE,2007,Biomass,3.098
+DE,2008,Biomass,3.501
+DE,2009,Biomass,3.906
+DE,2010,Biomass,4.479
+DE,2011,Biomass,5.523
+DE,2012,Biomass,5.892
+DE,2013,Biomass,6.262
+DE,2014,Biomass,6.789
+DE,2015,Biomass,6.914
+DE,2016,Biomass,7.146
+DE,2017,Biomass,7.458
+DE,2018,Biomass,7.89
+DE,2019,Biomass,8.242
+DE,2020,Biomass,8.621
+DE,2021,Biomass,8.745
+DE,2022,Biomass,8.801
+DE,2023,Biomass,8.842
+DE,2024,Biomass,8.935
+DE,2025,Biomass,8.956
+DE,2026,Biomass,8.962
+DE,2009,Wind offshore,0.035
+DE,2010,Wind offshore,0.082
+DE,2011,Wind offshore,0.196
+DE,2012,Wind offshore,0.284
+DE,2013,Wind offshore,0.548
+DE,2014,Wind offshore,1.049
+DE,2015,Wind offshore,3.382
+DE,2016,Wind offshore,4.237
+DE,2017,Wind offshore,5.523
+DE,2018,Wind offshore,6.513
+DE,2019,Wind offshore,7.655
+DE,2020,Wind offshore,7.874
+DE,2021,Wind offshore,7.874
+DE,2022,Wind offshore,8.216
+DE,2023,Wind offshore,8.473
+DE,2024,Wind offshore,9.215
+DE,2025,Wind offshore,9.733
+DE,2026,Wind offshore,10.811
+DE,2002,Wind onshore,11.976
+DE,2003,Wind onshore,14.381
+DE,2004,Wind onshore,16.419
+DE,2005,Wind onshore,18.248
+DE,2006,Wind onshore,20.474
+DE,2007,Wind onshore,22.116
+DE,2008,Wind onshore,22.794
+DE,2009,Wind onshore,25.697
+DE,2010,Wind onshore,26.823
+DE,2011,Wind onshore,28.579
+DE,2012,Wind onshore,30.556
+DE,2013,Wind onshore,32.969
+DE,2014,Wind onshore,37.62
+DE,2015,Wind onshore,41.297
+DE,2016,Wind onshore,45.283
+DE,2017,Wind onshore,50.174
+DE,2018,Wind onshore,52.328
+DE,2019,Wind onshore,53.193
+DE,2020,Wind onshore,54.414
+DE,2021,Wind onshore,56.046
+DE,2022,Wind onshore,58.014
+DE,2023,Wind onshore,61.013
+DE,2024,Wind onshore,63.589
+DE,2025,Wind onshore,68.182
+DE,2026,Wind onshore,70.184
+DE,2002,Solar DC,0.29
+DE,2003,Solar DC,0.434
+DE,2004,Solar DC,1.086
+DE,2005,Solar DC,2.008
+DE,2006,Solar DC,2.851
+DE,2007,Solar DC,4.102
+DE,2008,Solar DC,6.076
+DE,2009,Solar DC,10.51
+DE,2010,Solar DC,18.082
+DE,2011,Solar DC,26.055
+DE,2012,Solar DC,32.909
+DE,2013,Solar DC,36.038
+DE,2014,Solar DC,37.802
+DE,2015,Solar DC,39.217
+DE,2016,Solar DC,40.716
+DE,2017,Solar DC,42.384
+DE,2018,Solar DC,45.387
+DE,2019,Solar DC,49.398
+DE,2020,Solar DC,54.539
+DE,2021,Solar DC,60.244
+DE,2022,Solar DC,67.82
+DE,2023,Solar DC,83.277
+DE,2024,Solar DC,100.759
+DE,2025,Solar DC,118.009
+DE,2026,Solar DC,125.541

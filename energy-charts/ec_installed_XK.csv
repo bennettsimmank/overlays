@@ -1,0 +1,10 @@
+country,year,technology,capacity_gw
+XK,2020,Fossil brown coal / lignite,1.29
+XK,2021,Fossil brown coal / lignite,1.29
+XK,2022,Fossil brown coal / lignite,1.29
+XK,2020,Hydro water reservoir,0.04
+XK,2021,Hydro water reservoir,0.04
+XK,2022,Hydro water reservoir,0.04
+XK,2020,Wind onshore,0.03
+XK,2021,Wind onshore,0.14
+XK,2022,Wind onshore,0.14

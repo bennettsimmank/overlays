@@ -1,0 +1,120 @@
+country,year,technology,capacity_gw
+GR,2015,Biomass,0.05
+GR,2016,Biomass,0.05
+GR,2017,Biomass,0.05
+GR,2018,Biomass,0.05
+GR,2019,Biomass,0.09
+GR,2020,Biomass,0.1
+GR,2021,Biomass,0.11
+GR,2022,Biomass,0.13
+GR,2023,Biomass,0.12
+GR,2024,Biomass,0.15
+GR,2025,Biomass,0.15
+GR,2014,Fossil brown coal / lignite,4.46
+GR,2015,Fossil brown coal / lignite,3.91
+GR,2016,Fossil brown coal / lignite,3.91
+GR,2017,Fossil brown coal / lignite,3.91
+GR,2018,Fossil brown coal / lignite,3.91
+GR,2019,Fossil brown coal / lignite,3.36
+GR,2020,Fossil brown coal / lignite,2.56
+GR,2021,Fossil brown coal / lignite,2.0
+GR,2022,Fossil brown coal / lignite,2.65
+GR,2023,Fossil brown coal / lignite,2.65
+GR,2024,Fossil brown coal / lignite,1.8
+GR,2025,Fossil brown coal / lignite,1.5
+GR,2014,Fossil oil,0.72
+GR,2015,Fossil oil,0.0
+GR,2016,Fossil oil,0.0
+GR,2017,Fossil oil,0.0
+GR,2018,Fossil oil,0.0
+GR,2019,Fossil oil,0.0
+GR,2020,Fossil oil,0.0
+GR,2021,Fossil oil,0.0
+GR,2022,Fossil oil,0.0
+GR,2023,Fossil oil,0.0
+GR,2024,Fossil oil,0.0
+GR,2025,Fossil oil,0.0
+GR,2014,Fossil gas,4.91
+GR,2015,Fossil gas,5.4
+GR,2016,Fossil gas,5.24
+GR,2017,Fossil gas,5.24
+GR,2018,Fossil gas,4.9
+GR,2019,Fossil gas,4.9
+GR,2020,Fossil gas,4.9
+GR,2021,Fossil gas,5.21
+GR,2022,Fossil gas,6.03
+GR,2023,Fossil gas,6.03
+GR,2024,Fossil gas,6.03
+GR,2025,Fossil gas,6.68
+GR,2014,Geothermal,0.05
+GR,2015,Geothermal,0.0
+GR,2016,Geothermal,0.0
+GR,2017,Geothermal,0.0
+GR,2018,Geothermal,0.0
+GR,2019,Geothermal,0.0
+GR,2020,Geothermal,0.0
+GR,2021,Geothermal,0.0
+GR,2022,Geothermal,0.0
+GR,2023,Geothermal,0.0
+GR,2024,Geothermal,0.0
+GR,2025,Geothermal,0.0
+GR,2014,Hydro water reservoir,2.46
+GR,2015,Hydro water reservoir,2.4
+GR,2016,Hydro water reservoir,2.4
+GR,2017,Hydro water reservoir,2.4
+GR,2018,Hydro water reservoir,2.4
+GR,2019,Hydro water reservoir,2.4
+GR,2020,Hydro water reservoir,2.4
+GR,2021,Hydro water reservoir,2.4
+GR,2022,Hydro water reservoir,2.4
+GR,2023,Hydro water reservoir,2.4
+GR,2024,Hydro water reservoir,2.4
+GR,2025,Hydro water reservoir,2.4
+GR,2014,Hydro pumped storage,0.69
+GR,2015,Hydro pumped storage,0.7
+GR,2016,Hydro pumped storage,0.7
+GR,2017,Hydro pumped storage,0.7
+GR,2018,Hydro pumped storage,0.7
+GR,2019,Hydro pumped storage,0.7
+GR,2020,Hydro pumped storage,0.7
+GR,2021,Hydro pumped storage,0.7
+GR,2022,Hydro pumped storage,0.7
+GR,2023,Hydro pumped storage,0.7
+GR,2024,Hydro pumped storage,0.7
+GR,2025,Hydro pumped storage,0.7
+GR,2014,Other renewables,0.3
+GR,2015,Other renewables,0.07
+GR,2016,Other renewables,0.07
+GR,2017,Other renewables,0.07
+GR,2018,Other renewables,0.07
+GR,2019,Other renewables,0.1
+GR,2020,Other renewables,0.11
+GR,2021,Other renewables,0.11
+GR,2022,Other renewables,0.12
+GR,2023,Other renewables,0.13
+GR,2024,Other renewables,0.13
+GR,2025,Other renewables,0.16
+GR,2014,Wind onshore,1.61
+GR,2015,Wind onshore,1.88
+GR,2016,Wind onshore,1.88
+GR,2017,Wind onshore,2.23
+GR,2018,Wind onshore,2.36
+GR,2019,Wind onshore,3.15
+GR,2020,Wind onshore,3.76
+GR,2021,Wind onshore,4.15
+GR,2022,Wind onshore,4.55
+GR,2023,Wind onshore,5.07
+GR,2024,Wind onshore,5.22
+GR,2025,Wind onshore,5.46
+GR,2014,Solar AC,2.43
+GR,2015,Solar AC,2.44
+GR,2016,Solar AC,2.44
+GR,2017,Solar AC,2.44
+GR,2018,Solar AC,2.44
+GR,2019,Solar AC,2.61
+GR,2020,Solar AC,3.06
+GR,2021,Solar AC,3.82
+GR,2022,Solar AC,5.1
+GR,2023,Solar AC,6.7
+GR,2024,Solar AC,9.0
+GR,2025,Solar AC,9.8

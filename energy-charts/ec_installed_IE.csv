@@ -1,0 +1,79 @@
+country,year,technology,capacity_gw
+IE,2014,Fossil hard coal,0.86
+IE,2015,Fossil hard coal,0.86
+IE,2016,Fossil hard coal,0.86
+IE,2017,Fossil hard coal,0.86
+IE,2018,Fossil hard coal,0.86
+IE,2019,Fossil hard coal,0.86
+IE,2020,Fossil hard coal,0.86
+IE,2021,Fossil hard coal,0.86
+IE,2022,Fossil hard coal,0.86
+IE,2023,Fossil hard coal,0.86
+IE,2014,Fossil oil,0.81
+IE,2015,Fossil oil,0.81
+IE,2016,Fossil oil,1.27
+IE,2017,Fossil oil,1.27
+IE,2018,Fossil oil,1.27
+IE,2019,Fossil oil,1.27
+IE,2020,Fossil oil,1.27
+IE,2021,Fossil oil,1.27
+IE,2022,Fossil oil,1.27
+IE,2023,Fossil oil,1.27
+IE,2014,Fossil peat,0.34
+IE,2015,Fossil peat,0.34
+IE,2016,Fossil peat,0.34
+IE,2017,Fossil peat,0.34
+IE,2018,Fossil peat,0.34
+IE,2019,Fossil peat,0.34
+IE,2020,Fossil peat,0.34
+IE,2021,Fossil peat,0.34
+IE,2022,Fossil peat,0.34
+IE,2023,Fossil peat,0.34
+IE,2014,Fossil gas,3.8
+IE,2015,Fossil gas,3.8
+IE,2016,Fossil gas,4.26
+IE,2017,Fossil gas,4.26
+IE,2018,Fossil gas,4.26
+IE,2019,Fossil gas,4.26
+IE,2020,Fossil gas,4.26
+IE,2021,Fossil gas,4.26
+IE,2022,Fossil gas,4.26
+IE,2023,Fossil gas,4.26
+IE,2016,Geothermal,0.02
+IE,2017,Geothermal,0.02
+IE,2018,Geothermal,0.02
+IE,2019,Geothermal,0.02
+IE,2020,Geothermal,0.02
+IE,2021,Geothermal,0.02
+IE,2022,Geothermal,0.02
+IE,2023,Geothermal,0.02
+IE,2014,Hydro pumped storage,0.29
+IE,2015,Hydro pumped storage,0.29
+IE,2016,Hydro pumped storage,0.29
+IE,2017,Hydro pumped storage,0.29
+IE,2018,Hydro pumped storage,0.29
+IE,2019,Hydro pumped storage,0.29
+IE,2020,Hydro pumped storage,0.29
+IE,2021,Hydro pumped storage,0.29
+IE,2022,Hydro pumped storage,0.29
+IE,2023,Hydro pumped storage,0.29
+IE,2014,Others,0.65
+IE,2015,Others,0.65
+IE,2016,Others,0.65
+IE,2017,Others,0.65
+IE,2018,Others,0.65
+IE,2019,Others,0.65
+IE,2020,Others,0.65
+IE,2021,Others,0.65
+IE,2022,Others,0.65
+IE,2023,Others,0.65
+IE,2014,Wind onshore,1.91
+IE,2015,Wind onshore,1.92
+IE,2016,Wind onshore,1.92
+IE,2017,Wind onshore,1.92
+IE,2018,Wind onshore,1.92
+IE,2019,Wind onshore,1.92
+IE,2020,Wind onshore,1.92
+IE,2021,Wind onshore,1.92
+IE,2022,Wind onshore,1.92
+IE,2023,Wind onshore,1.92

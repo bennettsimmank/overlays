@@ -1,0 +1,36 @@
+country,year,technology,capacity_gw
+ME,2017,Fossil brown coal / lignite,0.21
+ME,2018,Fossil brown coal / lignite,0.21
+ME,2019,Fossil brown coal / lignite,0.21
+ME,2020,Fossil brown coal / lignite,0.21
+ME,2021,Fossil brown coal / lignite,0.21
+ME,2022,Fossil brown coal / lignite,0.21
+ME,2023,Fossil brown coal / lignite,0.21
+ME,2024,Fossil brown coal / lignite,0.21
+ME,2025,Fossil brown coal / lignite,0.21
+ME,2014,Fossil hard coal,0.21
+ME,2015,Fossil hard coal,0.21
+ME,2016,Fossil hard coal,0.21
+ME,2017,Fossil hard coal,0.21
+ME,2014,Hydro water reservoir,0.65
+ME,2015,Hydro water reservoir,0.65
+ME,2016,Hydro water reservoir,0.66
+ME,2017,Hydro water reservoir,0.66
+ME,2018,Hydro water reservoir,0.34
+ME,2019,Hydro water reservoir,0.34
+ME,2020,Hydro water reservoir,0.34
+ME,2021,Hydro water reservoir,0.34
+ME,2022,Hydro water reservoir,0.34
+ME,2023,Hydro water reservoir,0.34
+ME,2024,Hydro water reservoir,0.34
+ME,2025,Hydro water reservoir,0.34
+ME,2016,Wind onshore,0.07
+ME,2017,Wind onshore,0.07
+ME,2018,Wind onshore,0.12
+ME,2019,Wind onshore,0.12
+ME,2020,Wind onshore,0.12
+ME,2021,Wind onshore,0.12
+ME,2022,Wind onshore,0.12
+ME,2023,Wind onshore,0.12
+ME,2024,Wind onshore,0.12
+ME,2025,Wind onshore,0.17

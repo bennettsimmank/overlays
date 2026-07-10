@@ -1,0 +1,109 @@
+country,year,technology,capacity_gw
+DK,2014,Biomass,0.2
+DK,2015,Biomass,0.2
+DK,2016,Biomass,0.2
+DK,2017,Biomass,1.7
+DK,2018,Biomass,1.72
+DK,2019,Biomass,1.87
+DK,2020,Biomass,1.87
+DK,2021,Biomass,1.87
+DK,2022,Biomass,1.75
+DK,2023,Biomass,1.75
+DK,2024,Biomass,2.22
+DK,2025,Biomass,2.22
+DK,2014,Fossil hard coal,4.85
+DK,2015,Fossil hard coal,4.85
+DK,2016,Fossil hard coal,4.85
+DK,2017,Fossil hard coal,3.66
+DK,2018,Fossil hard coal,3.66
+DK,2019,Fossil hard coal,3.66
+DK,2020,Fossil hard coal,3.41
+DK,2021,Fossil hard coal,3.16
+DK,2022,Fossil hard coal,3.02
+DK,2023,Fossil hard coal,3.02
+DK,2024,Fossil hard coal,1.6
+DK,2025,Fossil hard coal,1.6
+DK,2014,Fossil oil,1.05
+DK,2015,Fossil oil,1.05
+DK,2016,Fossil oil,1.05
+DK,2017,Fossil oil,1.01
+DK,2018,Fossil oil,1.01
+DK,2019,Fossil oil,1.01
+DK,2020,Fossil oil,1.01
+DK,2021,Fossil oil,1.0
+DK,2022,Fossil oil,0.96
+DK,2023,Fossil oil,0.96
+DK,2024,Fossil oil,0.7
+DK,2025,Fossil oil,0.66
+DK,2014,Fossil gas,2.94
+DK,2015,Fossil gas,2.94
+DK,2016,Fossil gas,2.94
+DK,2017,Fossil gas,1.83
+DK,2018,Fossil gas,1.81
+DK,2019,Fossil gas,1.74
+DK,2020,Fossil gas,1.65
+DK,2021,Fossil gas,1.62
+DK,2022,Fossil gas,1.57
+DK,2023,Fossil gas,1.57
+DK,2024,Fossil gas,1.63
+DK,2025,Fossil gas,1.63
+DK,2014,Other renewables,0.09
+DK,2015,Other renewables,0.09
+DK,2016,Other renewables,0.09
+DK,2017,Other renewables,0.15
+DK,2018,Other renewables,0.14
+DK,2019,Other renewables,0.14
+DK,2020,Other renewables,0.14
+DK,2021,Other renewables,0.14
+DK,2022,Other renewables,0.14
+DK,2023,Other renewables,0.14
+DK,2024,Other renewables,0.14
+DK,2025,Other renewables,0.14
+DK,2014,Waste,0.36
+DK,2015,Waste,0.36
+DK,2016,Waste,0.36
+DK,2017,Waste,0.38
+DK,2018,Waste,0.38
+DK,2019,Waste,0.38
+DK,2020,Waste,0.38
+DK,2021,Waste,0.38
+DK,2022,Waste,0.38
+DK,2023,Waste,0.38
+DK,2024,Waste,0.38
+DK,2025,Waste,0.38
+DK,2014,Wind offshore,1.27
+DK,2015,Wind offshore,1.27
+DK,2016,Wind offshore,1.27
+DK,2017,Wind offshore,1.7
+DK,2018,Wind offshore,1.7
+DK,2019,Wind offshore,1.7
+DK,2020,Wind offshore,1.7
+DK,2021,Wind offshore,2.31
+DK,2022,Wind offshore,2.31
+DK,2023,Wind offshore,2.65
+DK,2024,Wind offshore,2.64
+DK,2025,Wind offshore,2.64
+DK,2014,Wind onshore,3.57
+DK,2015,Wind onshore,3.57
+DK,2016,Wind onshore,3.57
+DK,2017,Wind onshore,4.42
+DK,2018,Wind onshore,4.43
+DK,2019,Wind onshore,4.4
+DK,2020,Wind onshore,4.48
+DK,2021,Wind onshore,4.64
+DK,2022,Wind onshore,4.71
+DK,2023,Wind onshore,4.86
+DK,2024,Wind onshore,3.0
+DK,2025,Wind onshore,3.0
+DK,2014,Solar AC,0.6
+DK,2015,Solar AC,0.6
+DK,2016,Solar AC,0.6
+DK,2017,Solar AC,1.0
+DK,2018,Solar AC,1.01
+DK,2019,Solar AC,1.01
+DK,2020,Solar AC,1.3
+DK,2021,Solar AC,1.54
+DK,2022,Solar AC,2.32
+DK,2023,Solar AC,3.73
+DK,2024,Solar AC,3.23
+DK,2025,Solar AC,3.12

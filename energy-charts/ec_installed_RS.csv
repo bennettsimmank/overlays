@@ -1,0 +1,94 @@
+country,year,technology,capacity_gw
+RS,2016,Biomass,0.01
+RS,2017,Biomass,0.01
+RS,2018,Biomass,0.01
+RS,2019,Biomass,0.01
+RS,2020,Biomass,0.0
+RS,2021,Biomass,0.0
+RS,2022,Biomass,0.0
+RS,2023,Biomass,0.0
+RS,2024,Biomass,0.0
+RS,2025,Biomass,0.0
+RS,2014,Fossil brown coal / lignite,5.57
+RS,2015,Fossil brown coal / lignite,5.57
+RS,2016,Fossil brown coal / lignite,5.64
+RS,2017,Fossil brown coal / lignite,5.67
+RS,2018,Fossil brown coal / lignite,5.6
+RS,2019,Fossil brown coal / lignite,5.28
+RS,2020,Fossil brown coal / lignite,5.66
+RS,2021,Fossil brown coal / lignite,5.66
+RS,2022,Fossil brown coal / lignite,6.01
+RS,2023,Fossil brown coal / lignite,6.01
+RS,2024,Fossil brown coal / lignite,6.12
+RS,2025,Fossil brown coal / lignite,6.01
+RS,2015,Fossil gas,0.0
+RS,2016,Fossil gas,0.0
+RS,2017,Fossil gas,0.0
+RS,2018,Fossil gas,0.29
+RS,2019,Fossil gas,0.29
+RS,2020,Fossil gas,0.3
+RS,2021,Fossil gas,0.49
+RS,2022,Fossil gas,0.61
+RS,2023,Fossil gas,0.61
+RS,2024,Fossil gas,0.61
+RS,2025,Fossil gas,0.61
+RS,2014,Hydro water reservoir,0.42
+RS,2015,Hydro water reservoir,0.42
+RS,2016,Hydro water reservoir,0.37
+RS,2017,Hydro water reservoir,0.37
+RS,2018,Hydro water reservoir,0.34
+RS,2019,Hydro water reservoir,0.47
+RS,2020,Hydro water reservoir,0.47
+RS,2021,Hydro water reservoir,0.47
+RS,2022,Hydro water reservoir,0.49
+RS,2023,Hydro water reservoir,0.48
+RS,2024,Hydro water reservoir,0.48
+RS,2025,Hydro water reservoir,0.49
+RS,2014,Hydro pumped storage,0.61
+RS,2015,Hydro pumped storage,0.61
+RS,2016,Hydro pumped storage,0.64
+RS,2017,Hydro pumped storage,0.64
+RS,2018,Hydro pumped storage,0.64
+RS,2019,Hydro pumped storage,0.64
+RS,2020,Hydro pumped storage,0.64
+RS,2021,Hydro pumped storage,0.64
+RS,2022,Hydro pumped storage,0.64
+RS,2023,Hydro pumped storage,0.64
+RS,2024,Hydro pumped storage,0.64
+RS,2025,Hydro pumped storage,0.64
+RS,2014,Others,0.35
+RS,2015,Others,0.4
+RS,2016,Others,0.43
+RS,2017,Others,0.43
+RS,2018,Others,0.02
+RS,2019,Others,0.03
+RS,2020,Others,0.02
+RS,2021,Others,0.03
+RS,2022,Others,0.03
+RS,2023,Others,0.03
+RS,2024,Others,0.03
+RS,2025,Others,0.03
+RS,2022,Waste,0.03
+RS,2023,Waste,0.03
+RS,2024,Waste,0.03
+RS,2025,Waste,0.03
+RS,2016,Wind onshore,0.02
+RS,2017,Wind onshore,0.02
+RS,2018,Wind onshore,0.4
+RS,2019,Wind onshore,0.4
+RS,2020,Wind onshore,0.43
+RS,2021,Wind onshore,0.53
+RS,2022,Wind onshore,0.53
+RS,2023,Wind onshore,0.65
+RS,2024,Wind onshore,0.74
+RS,2025,Wind onshore,1.11
+RS,2016,Solar AC,0.0
+RS,2017,Solar AC,0.0
+RS,2018,Solar AC,0.0
+RS,2019,Solar AC,0.0
+RS,2020,Solar AC,0.0
+RS,2021,Solar AC,0.0
+RS,2022,Solar AC,0.0
+RS,2023,Solar AC,0.03
+RS,2024,Solar AC,0.07
+RS,2025,Solar AC,0.19

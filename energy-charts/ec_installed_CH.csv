@@ -1,0 +1,295 @@
+country,year,technology,capacity_gw
+CH,2005,Hydro Run-of-River,3.64
+CH,2006,Hydro Run-of-River,3.652
+CH,2007,Hydro Run-of-River,3.658
+CH,2008,Hydro Run-of-River,3.667
+CH,2009,Hydro Run-of-River,3.707
+CH,2010,Hydro Run-of-River,3.768
+CH,2011,Hydro Run-of-River,3.81
+CH,2012,Hydro Run-of-River,3.84
+CH,2013,Hydro Run-of-River,3.854
+CH,2014,Hydro Run-of-River,3.894
+CH,2015,Hydro Run-of-River,3.941
+CH,2016,Hydro Run-of-River,4.004
+CH,2017,Hydro Run-of-River,4.053
+CH,2018,Hydro Run-of-River,4.133
+CH,2019,Hydro Run-of-River,4.162
+CH,2020,Hydro Run-of-River,4.162
+CH,2021,Hydro Run-of-River,4.184
+CH,2022,Hydro Run-of-River,4.237
+CH,2023,Hydro Run-of-River,4.252
+CH,2024,Hydro Run-of-River,4.276
+CH,2025,Hydro Run-of-River,4.276
+CH,2005,Hydro water reservoir,7.974
+CH,2006,Hydro water reservoir,7.962
+CH,2007,Hydro water reservoir,8.065
+CH,2008,Hydro water reservoir,8.067
+CH,2009,Hydro water reservoir,8.073
+CH,2010,Hydro water reservoir,8.073
+CH,2011,Hydro water reservoir,8.078
+CH,2012,Hydro water reservoir,8.081
+CH,2013,Hydro water reservoir,8.081
+CH,2014,Hydro water reservoir,7.956
+CH,2015,Hydro water reservoir,7.966
+CH,2016,Hydro water reservoir,8.156
+CH,2017,Hydro water reservoir,8.152
+CH,2018,Hydro water reservoir,8.223
+CH,2019,Hydro water reservoir,8.224
+CH,2020,Hydro water reservoir,8.224
+CH,2021,Hydro water reservoir,8.224
+CH,2022,Hydro water reservoir,8.222
+CH,2023,Hydro water reservoir,8.226
+CH,2024,Hydro water reservoir,8.257
+CH,2025,Hydro water reservoir,8.257
+CH,2005,Hydro pumped storage,1.383
+CH,2006,Hydro pumped storage,1.383
+CH,2007,Hydro pumped storage,1.383
+CH,2008,Hydro pumped storage,1.383
+CH,2009,Hydro pumped storage,1.383
+CH,2010,Hydro pumped storage,1.383
+CH,2011,Hydro pumped storage,1.383
+CH,2012,Hydro pumped storage,1.383
+CH,2013,Hydro pumped storage,1.383
+CH,2014,Hydro pumped storage,1.383
+CH,2015,Hydro pumped storage,1.383
+CH,2016,Hydro pumped storage,2.062
+CH,2017,Hydro pumped storage,2.562
+CH,2018,Hydro pumped storage,2.562
+CH,2019,Hydro pumped storage,2.562
+CH,2020,Hydro pumped storage,2.562
+CH,2021,Hydro pumped storage,2.562
+CH,2022,Hydro pumped storage,3.484
+CH,2023,Hydro pumped storage,3.493
+CH,2024,Hydro pumped storage,3.517
+CH,2025,Hydro pumped storage,3.517
+CH,2005,Hydro pumped storage (w/o natural inflow),0.316
+CH,2006,Hydro pumped storage (w/o natural inflow),0.316
+CH,2007,Hydro pumped storage (w/o natural inflow),0.316
+CH,2008,Hydro pumped storage (w/o natural inflow),0.316
+CH,2009,Hydro pumped storage (w/o natural inflow),0.316
+CH,2010,Hydro pumped storage (w/o natural inflow),0.456
+CH,2011,Hydro pumped storage (w/o natural inflow),0.456
+CH,2012,Hydro pumped storage (w/o natural inflow),0.456
+CH,2013,Hydro pumped storage (w/o natural inflow),0.456
+CH,2014,Hydro pumped storage (w/o natural inflow),0.456
+CH,2015,Hydro pumped storage (w/o natural inflow),0.469
+CH,2016,Hydro pumped storage (w/o natural inflow),0.527
+CH,2017,Hydro pumped storage (w/o natural inflow),0.527
+CH,2018,Hydro pumped storage (w/o natural inflow),0.562
+CH,2019,Hydro pumped storage (w/o natural inflow),0.562
+CH,2020,Hydro pumped storage (w/o natural inflow),0.562
+CH,2021,Hydro pumped storage (w/o natural inflow),0.562
+CH,2022,Hydro pumped storage (w/o natural inflow),0.562
+CH,2023,Hydro pumped storage (w/o natural inflow),0.562
+CH,2024,Hydro pumped storage (w/o natural inflow),0.527
+CH,2025,Hydro pumped storage (w/o natural inflow),0.527
+CH,2005,Nuclear,3.22
+CH,2006,Nuclear,3.22
+CH,2007,Nuclear,3.22
+CH,2008,Nuclear,3.22
+CH,2009,Nuclear,3.238
+CH,2010,Nuclear,3.253
+CH,2011,Nuclear,3.278
+CH,2012,Nuclear,3.278
+CH,2013,Nuclear,3.308
+CH,2014,Nuclear,3.333
+CH,2015,Nuclear,3.333
+CH,2016,Nuclear,3.333
+CH,2017,Nuclear,3.333
+CH,2018,Nuclear,3.333
+CH,2019,Nuclear,2.96
+CH,2020,Nuclear,2.96
+CH,2021,Nuclear,2.96
+CH,2022,Nuclear,2.973
+CH,2023,Nuclear,2.973
+CH,2024,Nuclear,2.973
+CH,2025,Nuclear,2.973
+CH,2005,Conventional-thermal,0.075
+CH,2006,Conventional-thermal,0.075
+CH,2007,Conventional-thermal,0.075
+CH,2008,Conventional-thermal,0.075
+CH,2009,Conventional-thermal,0.075
+CH,2010,Conventional-thermal,0.075
+CH,2011,Conventional-thermal,0.075
+CH,2012,Conventional-thermal,0.075
+CH,2013,Conventional-thermal,0.075
+CH,2014,Conventional-thermal,0.075
+CH,2015,Conventional-thermal,0.075
+CH,2016,Conventional-thermal,0.075
+CH,2017,Conventional-thermal,0.075
+CH,2018,Conventional-thermal,0.075
+CH,2019,Conventional-thermal,0.075
+CH,2020,Conventional-thermal,0.075
+CH,2021,Conventional-thermal,0.075
+CH,2022,Conventional-thermal,0.075
+CH,2023,Conventional-thermal,0.325
+CH,2024,Conventional-thermal,0.325
+CH,2025,Conventional-thermal,0.325
+CH,2005,Landfill gas,0.005
+CH,2006,Landfill gas,0.005
+CH,2007,Landfill gas,0.002
+CH,2008,Landfill gas,0.002
+CH,2009,Landfill gas,0.002
+CH,2010,Landfill gas,0.001
+CH,2011,Landfill gas,0.001
+CH,2012,Landfill gas,0.001
+CH,2013,Landfill gas,0.001
+CH,2014,Landfill gas,0.001
+CH,2015,Landfill gas,0.001
+CH,2016,Landfill gas,0.001
+CH,2017,Landfill gas,0.0
+CH,2018,Landfill gas,0.0
+CH,2019,Landfill gas,0.0
+CH,2020,Landfill gas,0.0
+CH,2021,Landfill gas,0.0
+CH,2022,Landfill gas,0.0
+CH,2023,Landfill gas,0.0
+CH,2024,Landfill gas,0.0
+CH,2025,Landfill gas,0.0
+CH,2005,Waste incinerators without heat extraction,0.253
+CH,2006,Waste incinerators without heat extraction,0.261
+CH,2007,Waste incinerators without heat extraction,0.279
+CH,2008,Waste incinerators without heat extraction,0.28
+CH,2009,Waste incinerators without heat extraction,0.275
+CH,2010,Waste incinerators without heat extraction,0.29
+CH,2011,Waste incinerators without heat extraction,0.274
+CH,2012,Waste incinerators without heat extraction,0.276
+CH,2013,Waste incinerators without heat extraction,0.343
+CH,2014,Waste incinerators without heat extraction,0.342
+CH,2015,Waste incinerators without heat extraction,0.342
+CH,2016,Waste incinerators without heat extraction,0.364
+CH,2017,Waste incinerators without heat extraction,0.364
+CH,2018,Waste incinerators without heat extraction,0.364
+CH,2019,Waste incinerators without heat extraction,0.369
+CH,2020,Waste incinerators without heat extraction,0.343
+CH,2021,Waste incinerators without heat extraction,0.294
+CH,2022,Waste incinerators without heat extraction,0.327
+CH,2023,Waste incinerators without heat extraction,0.311
+CH,2024,Waste incinerators without heat extraction,0.311
+CH,2025,Waste incinerators without heat extraction,0.311
+CH,2005,Waste incinerators with heat extraction,0.04
+CH,2006,Waste incinerators with heat extraction,0.04
+CH,2007,Waste incinerators with heat extraction,0.056
+CH,2008,Waste incinerators with heat extraction,0.056
+CH,2009,Waste incinerators with heat extraction,0.057
+CH,2010,Waste incinerators with heat extraction,0.049
+CH,2011,Waste incinerators with heat extraction,0.083
+CH,2012,Waste incinerators with heat extraction,0.072
+CH,2013,Waste incinerators with heat extraction,0.067
+CH,2014,Waste incinerators with heat extraction,0.056
+CH,2015,Waste incinerators with heat extraction,0.056
+CH,2016,Waste incinerators with heat extraction,0.058
+CH,2017,Waste incinerators with heat extraction,0.058
+CH,2018,Waste incinerators with heat extraction,0.058
+CH,2019,Waste incinerators with heat extraction,0.053
+CH,2020,Waste incinerators with heat extraction,0.078
+CH,2021,Waste incinerators with heat extraction,0.112
+CH,2022,Waste incinerators with heat extraction,0.069
+CH,2023,Waste incinerators with heat extraction,0.085
+CH,2024,Waste incinerators with heat extraction,0.085
+CH,2025,Waste incinerators with heat extraction,0.085
+CH,2005,Industry,0.237
+CH,2006,Industry,0.239
+CH,2007,Industry,0.229
+CH,2008,Industry,0.228
+CH,2009,Industry,0.216
+CH,2010,Industry,0.217
+CH,2011,Industry,0.272
+CH,2012,Industry,0.248
+CH,2013,Industry,0.222
+CH,2014,Industry,0.219
+CH,2015,Industry,0.191
+CH,2016,Industry,0.188
+CH,2017,Industry,0.138
+CH,2018,Industry,0.138
+CH,2019,Industry,0.132
+CH,2020,Industry,0.14
+CH,2021,Industry,0.141
+CH,2022,Industry,0.141
+CH,2023,Industry,0.133
+CH,2024,Industry,0.133
+CH,2025,Industry,0.133
+CH,2005,District heating plants,0.063
+CH,2006,District heating plants,0.063
+CH,2007,District heating plants,0.053
+CH,2008,District heating plants,0.062
+CH,2009,District heating plants,0.095
+CH,2010,District heating plants,0.095
+CH,2011,District heating plants,0.107
+CH,2012,District heating plants,0.107
+CH,2013,District heating plants,0.107
+CH,2014,District heating plants,0.181
+CH,2015,District heating plants,0.181
+CH,2016,District heating plants,0.179
+CH,2017,District heating plants,0.176
+CH,2018,District heating plants,0.173
+CH,2019,District heating plants,0.174
+CH,2020,District heating plants,0.177
+CH,2021,District heating plants,0.197
+CH,2022,District heating plants,0.208
+CH,2023,District heating plants,0.212
+CH,2024,District heating plants,0.212
+CH,2025,District heating plants,0.212
+CH,2005,Small-CHP,0.146
+CH,2006,Small-CHP,0.146
+CH,2007,Small-CHP,0.149
+CH,2008,Small-CHP,0.149
+CH,2009,Small-CHP,0.151
+CH,2010,Small-CHP,0.136
+CH,2011,Small-CHP,0.135
+CH,2012,Small-CHP,0.145
+CH,2013,Small-CHP,0.143
+CH,2014,Small-CHP,0.147
+CH,2015,Small-CHP,0.146
+CH,2016,Small-CHP,0.153
+CH,2017,Small-CHP,0.15
+CH,2018,Small-CHP,0.138
+CH,2019,Small-CHP,0.137
+CH,2020,Small-CHP,0.14
+CH,2021,Small-CHP,0.146
+CH,2022,Small-CHP,0.142
+CH,2023,Small-CHP,0.142
+CH,2024,Small-CHP,0.142
+CH,2025,Small-CHP,0.142
+CH,2005,Wind onshore,0.009
+CH,2006,Wind onshore,0.012
+CH,2007,Wind onshore,0.012
+CH,2008,Wind onshore,0.012
+CH,2009,Wind onshore,0.013
+CH,2010,Wind onshore,0.018
+CH,2011,Wind onshore,0.042
+CH,2012,Wind onshore,0.045
+CH,2013,Wind onshore,0.049
+CH,2014,Wind onshore,0.06
+CH,2015,Wind onshore,0.06
+CH,2016,Wind onshore,0.06
+CH,2017,Wind onshore,0.075
+CH,2018,Wind onshore,0.075
+CH,2019,Wind onshore,0.075
+CH,2020,Wind onshore,0.087
+CH,2021,Wind onshore,0.088
+CH,2022,Wind onshore,0.088
+CH,2023,Wind onshore,0.088
+CH,2024,Wind onshore,0.102
+CH,2025,Wind onshore,0.102
+CH,2005,Solar DC,0.028
+CH,2006,Solar DC,0.03
+CH,2007,Solar DC,0.037
+CH,2008,Solar DC,0.049
+CH,2009,Solar DC,0.079
+CH,2010,Solar DC,0.125
+CH,2011,Solar DC,0.223
+CH,2012,Solar DC,0.437
+CH,2013,Solar DC,0.756
+CH,2014,Solar DC,1.061
+CH,2015,Solar DC,1.394
+CH,2016,Solar DC,1.664
+CH,2017,Solar DC,1.906
+CH,2018,Solar DC,2.173
+CH,2019,Solar DC,2.498
+CH,2020,Solar DC,2.973
+CH,2021,Solar DC,3.655
+CH,2022,Solar DC,4.737
+CH,2023,Solar DC,6.375
+CH,2024,Solar DC,8.17
+CH,2025,Solar DC,9.696

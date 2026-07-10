@@ -1,0 +1,97 @@
+country,year,technology,capacity_gw
+RO,2014,Nuclear,1.3
+RO,2015,Nuclear,1.3
+RO,2016,Nuclear,1.3
+RO,2017,Nuclear,1.3
+RO,2018,Nuclear,1.3
+RO,2019,Nuclear,1.3
+RO,2020,Nuclear,1.3
+RO,2021,Nuclear,1.3
+RO,2022,Nuclear,1.3
+RO,2023,Nuclear,1.3
+RO,2024,Nuclear,1.3
+RO,2025,Nuclear,1.3
+RO,2014,Biomass,0.09
+RO,2015,Biomass,0.1
+RO,2016,Biomass,0.12
+RO,2017,Biomass,0.12
+RO,2018,Biomass,0.12
+RO,2019,Biomass,0.12
+RO,2020,Biomass,0.12
+RO,2021,Biomass,0.12
+RO,2022,Biomass,0.12
+RO,2023,Biomass,0.12
+RO,2024,Biomass,0.12
+RO,2025,Biomass,0.12
+RO,2014,Fossil brown coal / lignite,4.52
+RO,2015,Fossil brown coal / lignite,4.55
+RO,2016,Fossil brown coal / lignite,4.62
+RO,2017,Fossil brown coal / lignite,4.58
+RO,2018,Fossil brown coal / lignite,3.1
+RO,2019,Fossil brown coal / lignite,3.07
+RO,2020,Fossil brown coal / lignite,2.48
+RO,2021,Fossil brown coal / lignite,2.5
+RO,2022,Fossil brown coal / lignite,2.5
+RO,2023,Fossil brown coal / lignite,1.73
+RO,2024,Fossil brown coal / lignite,2.03
+RO,2025,Fossil brown coal / lignite,1.56
+RO,2014,Fossil hard coal,1.35
+RO,2015,Fossil hard coal,1.35
+RO,2016,Fossil hard coal,1.23
+RO,2017,Fossil hard coal,1.23
+RO,2018,Fossil hard coal,1.03
+RO,2019,Fossil hard coal,1.03
+RO,2020,Fossil hard coal,0.99
+RO,2021,Fossil hard coal,0.18
+RO,2022,Fossil hard coal,0.18
+RO,2023,Fossil hard coal,0.18
+RO,2024,Fossil hard coal,0.14
+RO,2025,Fossil hard coal,0.09
+RO,2014,Fossil gas,4.86
+RO,2015,Fossil gas,4.88
+RO,2016,Fossil gas,5.02
+RO,2017,Fossil gas,5.14
+RO,2018,Fossil gas,3.03
+RO,2019,Fossil gas,2.67
+RO,2020,Fossil gas,2.18
+RO,2021,Fossil gas,2.22
+RO,2022,Fossil gas,1.99
+RO,2023,Fossil gas,2.24
+RO,2024,Fossil gas,2.18
+RO,2025,Fossil gas,2.28
+RO,2014,Hydro water reservoir,3.8
+RO,2015,Hydro water reservoir,4.01
+RO,2016,Hydro water reservoir,3.8
+RO,2017,Hydro water reservoir,3.8
+RO,2018,Hydro water reservoir,3.37
+RO,2019,Hydro water reservoir,3.39
+RO,2020,Hydro water reservoir,3.39
+RO,2021,Hydro water reservoir,3.36
+RO,2022,Hydro water reservoir,3.36
+RO,2023,Hydro water reservoir,3.36
+RO,2024,Hydro water reservoir,3.35
+RO,2025,Hydro water reservoir,3.4
+RO,2014,Wind onshore,2.9
+RO,2015,Wind onshore,2.94
+RO,2016,Wind onshore,2.98
+RO,2017,Wind onshore,2.99
+RO,2018,Wind onshore,2.97
+RO,2019,Wind onshore,2.97
+RO,2020,Wind onshore,2.96
+RO,2021,Wind onshore,2.96
+RO,2022,Wind onshore,2.96
+RO,2023,Wind onshore,2.96
+RO,2024,Wind onshore,3.03
+RO,2025,Wind onshore,3.07
+RO,2014,Solar AC,1.1
+RO,2015,Solar AC,1.15
+RO,2016,Solar AC,1.21
+RO,2017,Solar AC,1.21
+RO,2018,Solar AC,1.15
+RO,2019,Solar AC,1.16
+RO,2020,Solar AC,1.14
+RO,2021,Solar AC,1.16
+RO,2022,Solar AC,1.18
+RO,2023,Solar AC,1.29
+RO,2024,Solar AC,1.59
+RO,2025,Solar AC,2.79

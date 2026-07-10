@@ -1,0 +1,28 @@
+country,year,technology,capacity_gw
+UA,2019,Nuclear,13.84
+UA,2020,Nuclear,13.84
+UA,2021,Nuclear,13.84
+UA,2022,Nuclear,13.84
+UA,2019,Biomass,0.2
+UA,2020,Biomass,0.2
+UA,2021,Biomass,0.2
+UA,2019,Fossil hard coal,18.59
+UA,2020,Fossil hard coal,18.59
+UA,2021,Fossil hard coal,18.59
+UA,2019,Fossil gas,9.36
+UA,2020,Fossil gas,9.36
+UA,2021,Fossil gas,9.36
+UA,2019,Hydro water reservoir,4.64
+UA,2020,Hydro water reservoir,4.64
+UA,2021,Hydro water reservoir,4.64
+UA,2022,Hydro water reservoir,4.64
+UA,2019,Hydro pumped storage,1.49
+UA,2020,Hydro pumped storage,1.49
+UA,2021,Hydro pumped storage,1.49
+UA,2022,Hydro pumped storage,1.96
+UA,2019,Wind onshore,1.11
+UA,2020,Wind onshore,1.11
+UA,2021,Wind onshore,1.11
+UA,2019,Solar AC,5.36
+UA,2020,Solar AC,5.36
+UA,2021,Solar AC,5.36

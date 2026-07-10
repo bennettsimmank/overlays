@@ -1,0 +1,139 @@
+country,year,technology,capacity_gw
+HU,2014,Nuclear,1.89
+HU,2015,Nuclear,1.89
+HU,2016,Nuclear,1.89
+HU,2017,Nuclear,1.9
+HU,2018,Nuclear,1.9
+HU,2019,Nuclear,1.9
+HU,2020,Nuclear,1.91
+HU,2021,Nuclear,1.92
+HU,2022,Nuclear,1.92
+HU,2023,Nuclear,1.92
+HU,2024,Nuclear,1.92
+HU,2025,Nuclear,1.92
+HU,2014,Biomass,0.13
+HU,2015,Biomass,0.25
+HU,2016,Biomass,0.25
+HU,2017,Biomass,0.25
+HU,2018,Biomass,0.25
+HU,2019,Biomass,0.24
+HU,2020,Biomass,0.21
+HU,2021,Biomass,0.21
+HU,2022,Biomass,0.21
+HU,2023,Biomass,0.31
+HU,2024,Biomass,0.31
+HU,2025,Biomass,0.34
+HU,2014,Fossil brown coal / lignite,1.1
+HU,2015,Fossil brown coal / lignite,1.01
+HU,2016,Fossil brown coal / lignite,1.05
+HU,2017,Fossil brown coal / lignite,1.05
+HU,2018,Fossil brown coal / lignite,1.05
+HU,2019,Fossil brown coal / lignite,1.01
+HU,2020,Fossil brown coal / lignite,1.01
+HU,2021,Fossil brown coal / lignite,1.01
+HU,2022,Fossil brown coal / lignite,0.79
+HU,2023,Fossil brown coal / lignite,0.79
+HU,2024,Fossil brown coal / lignite,0.79
+HU,2025,Fossil brown coal / lignite,0.61
+HU,2019,Fossil hard coal,0.04
+HU,2020,Fossil hard coal,0.04
+HU,2021,Fossil hard coal,0.04
+HU,2022,Fossil hard coal,0.04
+HU,2023,Fossil hard coal,0.04
+HU,2024,Fossil hard coal,0.04
+HU,2014,Fossil oil,0.41
+HU,2015,Fossil oil,0.41
+HU,2016,Fossil oil,0.41
+HU,2017,Fossil oil,0.41
+HU,2018,Fossil oil,0.42
+HU,2019,Fossil oil,0.42
+HU,2020,Fossil oil,0.42
+HU,2021,Fossil oil,0.42
+HU,2022,Fossil oil,0.42
+HU,2023,Fossil oil,0.42
+HU,2024,Fossil oil,0.42
+HU,2025,Fossil oil,0.44
+HU,2014,Fossil gas,4.22
+HU,2015,Fossil gas,4.12
+HU,2016,Fossil gas,4.11
+HU,2017,Fossil gas,4.11
+HU,2018,Fossil gas,4.03
+HU,2019,Fossil gas,4.03
+HU,2020,Fossil gas,4.01
+HU,2021,Fossil gas,3.97
+HU,2022,Fossil gas,3.15
+HU,2023,Fossil gas,3.17
+HU,2024,Fossil gas,2.98
+HU,2025,Fossil gas,3.06
+HU,2018,Geothermal,0.0
+HU,2019,Geothermal,0.0
+HU,2020,Geothermal,0.0
+HU,2021,Geothermal,0.0
+HU,2022,Geothermal,0.0
+HU,2023,Geothermal,0.0
+HU,2024,Geothermal,0.0
+HU,2025,Geothermal,0.0
+HU,2014,Hydro water reservoir,0.03
+HU,2015,Hydro water reservoir,0.03
+HU,2016,Hydro water reservoir,0.03
+HU,2017,Hydro water reservoir,0.03
+HU,2018,Hydro water reservoir,0.03
+HU,2019,Hydro water reservoir,0.03
+HU,2020,Hydro water reservoir,0.03
+HU,2021,Hydro water reservoir,0.03
+HU,2022,Hydro water reservoir,0.03
+HU,2023,Hydro water reservoir,0.03
+HU,2024,Hydro water reservoir,0.03
+HU,2025,Hydro water reservoir,0.03
+HU,2022,Others,0.02
+HU,2023,Others,0.04
+HU,2024,Others,0.15
+HU,2025,Others,0.78
+HU,2014,Other renewables,0.07
+HU,2015,Other renewables,0.06
+HU,2016,Other renewables,0.06
+HU,2017,Other renewables,0.07
+HU,2018,Other renewables,0.07
+HU,2019,Other renewables,0.07
+HU,2020,Other renewables,0.07
+HU,2021,Other renewables,0.07
+HU,2022,Other renewables,0.07
+HU,2023,Other renewables,0.07
+HU,2024,Other renewables,0.07
+HU,2025,Other renewables,0.08
+HU,2014,Waste,0.02
+HU,2015,Waste,0.03
+HU,2016,Waste,0.03
+HU,2017,Waste,0.04
+HU,2018,Waste,0.06
+HU,2019,Waste,0.06
+HU,2020,Waste,0.05
+HU,2021,Waste,0.05
+HU,2022,Waste,0.05
+HU,2023,Waste,0.05
+HU,2024,Waste,0.05
+HU,2025,Waste,0.05
+HU,2014,Wind onshore,0.33
+HU,2015,Wind onshore,0.33
+HU,2016,Wind onshore,0.32
+HU,2017,Wind onshore,0.32
+HU,2018,Wind onshore,0.33
+HU,2019,Wind onshore,0.32
+HU,2020,Wind onshore,0.32
+HU,2021,Wind onshore,0.32
+HU,2022,Wind onshore,0.32
+HU,2023,Wind onshore,0.33
+HU,2024,Wind onshore,0.33
+HU,2025,Wind onshore,0.33
+HU,2014,Solar AC,0.01
+HU,2015,Solar AC,0.03
+HU,2016,Solar AC,0.07
+HU,2017,Solar AC,0.34
+HU,2018,Solar AC,0.94
+HU,2019,Solar AC,1.41
+HU,2020,Solar AC,1.83
+HU,2021,Solar AC,2.52
+HU,2022,Solar AC,3.3
+HU,2023,Solar AC,4.03
+HU,2024,Solar AC,8.28
+HU,2025,Solar AC,8.72

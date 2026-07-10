@@ -1,0 +1,52 @@
+country,year,technology,capacity_gw
+SE,2014,Nuclear,9.53
+SE,2015,Nuclear,8.89
+SE,2016,Nuclear,9.08
+SE,2017,Nuclear,8.6
+SE,2018,Nuclear,8.59
+SE,2019,Nuclear,7.71
+SE,2020,Nuclear,6.87
+SE,2021,Nuclear,6.9
+SE,2022,Nuclear,6.9
+SE,2023,Nuclear,6.9
+SE,2024,Nuclear,6.9
+SE,2025,Nuclear,6.9
+SE,2014,Hydro water reservoir,15.96
+SE,2015,Hydro water reservoir,15.92
+SE,2016,Hydro water reservoir,15.94
+SE,2017,Hydro water reservoir,15.95
+SE,2018,Hydro water reservoir,16.3
+SE,2019,Hydro water reservoir,16.32
+SE,2020,Hydro water reservoir,16.33
+SE,2021,Hydro water reservoir,16.3
+SE,2022,Hydro water reservoir,16.3
+SE,2023,Hydro water reservoir,16.3
+SE,2024,Hydro water reservoir,16.4
+SE,2025,Hydro water reservoir,16.4
+SE,2014,Others,8.01
+SE,2015,Others,8.38
+SE,2016,Others,8.04
+SE,2017,Others,7.87
+SE,2018,Others,8.44
+SE,2019,Others,8.83
+SE,2020,Others,7.98
+SE,2021,Others,8.4
+SE,2022,Others,9.0
+SE,2023,Others,6.6
+SE,2024,Others,6.7
+SE,2025,Others,6.7
+SE,2014,Wind onshore,3.5
+SE,2015,Wind onshore,5.49
+SE,2016,Wind onshore,5.96
+SE,2017,Wind onshore,6.25
+SE,2018,Wind onshore,7.51
+SE,2019,Wind onshore,9.65
+SE,2020,Wind onshore,10.02
+SE,2021,Wind onshore,12.1
+SE,2022,Wind onshore,14.7
+SE,2023,Wind onshore,16.7
+SE,2024,Wind onshore,18.0
+SE,2025,Wind onshore,18.0
+SE,2023,Solar AC,3.2
+SE,2024,Solar AC,5.0
+SE,2025,Solar AC,5.0
